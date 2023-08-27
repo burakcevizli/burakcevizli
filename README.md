@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/burakcevizli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakcevizli" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/burak-cevizli-044631155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakcevizli" height="30" width="40" /></a>
 <a href="https://instagram.com/burakcevzl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burakcevzl" height="30" width="40" /></a>
 <a href="https://medium.com/@burakcevizli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@burakcevizli" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/burakcevizli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="burakcevizli" height="30" width="40" /></a>
