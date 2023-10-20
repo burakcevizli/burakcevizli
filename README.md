@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakcevizli&label=Profile%20views&color=0e75b6&style=flat" alt="burakcevizli" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **SQL**
 
 - 💬 Ask me about **Fullstack technologies**
 
