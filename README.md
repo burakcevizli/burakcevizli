@@ -124,6 +124,7 @@
     </td>
   </tr>
 </table>
+<p>Githup stats : </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakcevizli&show_icons=true&locale=en&layout=compact" alt="burakcevizli" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakcevizli&show_icons=true&locale=en" alt="burakcevizli" /></p>
