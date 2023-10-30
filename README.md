@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Burak CEVİZLİ</h1>
+<h1 align="center">Burak CEVİZLİ</h1>
 <h3 align="center">A passionate fullstack developer from Turkey.</h3>
+<p align="center">
+  <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Full%20Stack%20Developer;8+%2B%20years%20of%20developing%20experience;&center=true&width=800&height=60"></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakcevizli&label=Profile%20views&color=0e75b6&style=flat" alt="burakcevizli" /> </p>
 
