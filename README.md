@@ -1,31 +1,81 @@
-![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
-<h1 align="center">Hello Everyone 👋, I'm Burak CEVİZLİ</h1>
-<h3 align="center">A passionate fullstack developer from Turkey.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakcevizli&label=Profile%20views&color=0e75b6&style=flat" alt="burakcevizli" /> </p>
-
-- 🌱 I’m currently learning **SQL**
-
-- 💬 Ask me about **Fullstack technologies**
-
-- 📫 How to reach me **burakcevizli@gmail.com**
-
-- ⚡ Fun fact **i think i'm curious**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/burak-cevizli-044631155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakcevizli" height="30" width="40" /></a>
-<a href="https://www.instagram.com/burakcvzl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="burakcevzl" height="30" width="40" /></a>
-<a href="https://medium.com/@burakcevizli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@burakcevizli" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/burakcevizli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="burakcevizli" height="30" width="40" /></a>
+<h1 align="center"> Burak CEVIZLI </h1>
+<p align="center">
+  <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Full%20Stack%20Developer;8+%2B%20years%20of%20developing%20experience;&center=true&width=800&height=60"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakcevizli&show_icons=true&locale=en&layout=compact" alt="burakcevizli" /></p>
+<img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+  <p>
+With over 8 years of experience in advanced web development, I excel at all stages of the process, including building intelligent websites.
+I have a proven ability to quickly grasp and become proficient in new technologies.
+Whether working in a team or independently, I am adept at collaborating in a highly cooperative work environment, finding effective solutions, and ensuring customer satisfaction.
+As a dedicated problem solver, my priority is always to provide excellent value to clients and foster strong teamwork.
+My area of expertise lies in developing robust systems and websites using the JavaScript, PHP, and Python tech stack. Furthermore, I have practical hands-on experience in building scalable software for various sectors such as SaaS companies, healthcare organizations, non-profits, and financial applications.
+  </p>
+  
+##
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakcevizli&show_icons=true&locale=en" alt="burakcevizli" /></p>
+**Languages and Tools :**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakcevizli&" alt="burakcevizli" /></p>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="55" height="auto" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55" height="auto"  /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></td>
+   </tr>
+   <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="auto"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="auto"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></td>
+   </tr>
+  </table>
+<br />
+ 💻 GitHub Stats
+
+<table width="100%">
+    <tr>
+        <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=vladyslav833&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+        </td>
+        <td> 
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslav833&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
+        </td>
+    </tr>
+    <table>
+    <div align="center"  width="100%">
+        <img src="https://github-profile-trophy.vercel.app/?username=vladyslav833&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
+    </div>
+    <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
