@@ -130,3 +130,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakcevizli&show_icons=true&locale=en" alt="burakcevizli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakcevizli&" alt="burakcevizli" /></p>
+
+![Marquee SVG](https://raw.githubusercontent.com/burakcevizli/burakcevizli/main/marquee.svg)
