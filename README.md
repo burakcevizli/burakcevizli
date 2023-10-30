@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://burakcevizli.vercel.app](https://burakcevizli.vercel.app)
-
 - 💬 Ask me about **Fullstack Technologies**
 
 - 📫 How to reach me **burakcevizli@gmail.com**
