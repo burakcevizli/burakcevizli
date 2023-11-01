@@ -120,6 +120,11 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
       </a>
     </td>
+     <td>
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" alt="hibernate" width="40" height="40"/>
+      </a>
+    </td>
   </tr>
 </table>
 <h3 align="left">Github Stats:</h3>
