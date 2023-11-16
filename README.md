@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [e-commerce site](https://github.com/burakcevizli/e-commercesite)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently doing projects about **Fullstack**
 
 - 💬 Ask me about **Fullstack Technologies**
 
